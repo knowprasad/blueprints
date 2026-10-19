@@ -165,8 +165,8 @@ extend:
     - Cloud
     - Infrastructure
   subTags:
-    - FinOps & Cost Management
-    - Infrastructure Automation
-    - Day 2 Operations
+    - "FinOps & Cost Management"
+    - "Infrastructure Automation"
+    - "Day 2 Operations"
   ee: false
   demo: false
